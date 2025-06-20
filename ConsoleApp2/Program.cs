@@ -86,6 +86,7 @@ namespace ConsoleApp2
         //        Which of the following is the correct output for the C# code given below?
         //          Console.WriteLine(13 / 2 + " " + 13 % 2); 
 
+        //ans:6,1
 
         #endregion
         #region q10
