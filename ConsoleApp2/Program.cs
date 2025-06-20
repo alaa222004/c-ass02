@@ -68,6 +68,7 @@ namespace ConsoleApp2
 
             string nam1 = "alaa";
             string nam2 = "samir";
+            string n = "ay 7aga";
             Console.WriteLine(string.Format("{0} {1}", nam1, nam2));
             #endregion
         }
@@ -85,7 +86,6 @@ namespace ConsoleApp2
         //        Which of the following is the correct output for the C# code given below?
         //          Console.WriteLine(13 / 2 + " " + 13 % 2); 
 
-        //ans:6 1
 
         #endregion
         #region q10
